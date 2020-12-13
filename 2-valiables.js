@@ -21,3 +21,5 @@ persona;
 //podemos llamar un elemento de un array abriendo cochete y dentro lponemos el número del índice empezando por cero
 
 elementos[1];
+
+console.log(nombre + " " + "Es el mejor de todos")
