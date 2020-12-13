@@ -8,6 +8,6 @@ function saludarEstudiantes(estudiante) {
 //   saludarEstudiantes(estudiantes[i]);
 // }
 
-for(var estudiante of estudiantes) {
+for(var estudiante of estudiantes) { // Inicializamos una variable en singular de nuestro Array para cumplir el ciclo.
   saludarEstudiantes(estudiante);
 }
